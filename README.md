@@ -7,6 +7,7 @@ and genres, or wants to know how the trends changed over this one decade. It ena
 explore what artists, genres and songs were popular and at which time. Users can analyze and
 compare popular songs, their features, all artists or just certain artists types, individual genres or
 whole genre groups or subgroups.
+
 For every popular song, we have its features, main genre, release year and the year it was
 most popular in. With over 100 unique genres, we have organized them into primary genre groups
 and subgroups to make it easier for users to navigate and analyze popularity in terms of genres.
